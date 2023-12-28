@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @giorgionicoli
-- 👀 I’m a physicist with a passion for software development and machine learning. Python is my main language!
-- 🌱 I’m currently learning everything I can about ML and MLOps, deep learning and data-driven model development and lifecycle.
-- 💞️ I’m looking to collaborate on open-source projects to increase my experience. I'll finish my PhD end of January 2022 and I want to make machine learning and software development my main activities!
-- 📫 You can reach me via [email](mailto:nic.giorgio1992@gmail.com), on [twitter](https://twitter.com/giorgionicoli__) or on [linkedin](https://www.linkedin.com/in/giorgio-nicoli-35b9a4106/)
+- 👀 I’m a data scientist/machine learning engineer with a background in quantum physics
+- 🐍 and 🦀 are my main languages
+- 📫 You can reach me via [email](mailto:nic.giorgio1992@gmail.com), or on [linkedin](https://www.linkedin.com/in/giorgio-nicoli/)
 
 <!---
 giorgionicoli/giorgionicoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
